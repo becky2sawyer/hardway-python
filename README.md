@@ -1,6 +1,6 @@
 # Challenge! Continuous coding training every day
 
-## hardway-python
+## learn python the hard way
 - https://www.google.com/search?q=learn+python+the+hard+way&oq=learn+python+the+hard+way
 - https://en.wikipedia.org/wiki/Zed_Shaw
 
